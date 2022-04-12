@@ -1,0 +1,17 @@
+button{
+border-radius:50%;
+background-color: aqua;
+
+}
+.modificar{
+    width: 10cm;
+    margin-left:40%;
+    margin-top:8%;
+    border-width: medium;
+  border-style: solid;
+  border-color: #00f;
+    border-radius: 10px;
+    text-align: center;
+    background-color: gray;
+}
+
